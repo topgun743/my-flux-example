@@ -1,5 +1,5 @@
 # my-flux-example
-A (boilerplate) sample for getting started with Flux.
+A (boilerplate) sample for getting started with Flux using React.
 ####Inspired from Flux for Stupid People  http://blog.andrewray.me/flux-for-stupid-people/
 
 ####Instructions for compiling
